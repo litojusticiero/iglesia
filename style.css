@@ -12,4 +12,21 @@ h1{
 
 h2{
     background-color: #5D6336;
+    color: white;
+    clear: both;
+}
+
+img.left{
+float: left;
+}
+
+p.mid{
+    text-align: center;
+}
+img.right{
+float: right;
+}
+footer.foot{
+    clear: both;
+    font-style: italic;
 }
