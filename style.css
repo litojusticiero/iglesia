@@ -1,3 +1,15 @@
 body{
     background-color: #C4C6B9;
+    font-size: 150%;
+}
+h1{
+    color: #161669;
+    font-weight: 800;
+    font-size: 300%;
+    text-align: right;
+
+}
+
+h2{
+    background-color: #5D6336;
 }
